@@ -1046,7 +1046,7 @@ gap: 15px;
 .bmi{
     height: 70vh;
     width: 100%;
-    background-image: url("/IMG/bmi-bg.jpg");
+    background-image: URL("./IMG/bmi-bg.jpg");
     background-size: cover;
     background-position:right;
     padding: 2vw;
