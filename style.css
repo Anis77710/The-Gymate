@@ -629,7 +629,7 @@ gap: 15px;
 .page4{
     height: 130%;
     width: 100%;
-    background-image: url(/IMG/blackBg.jpg);
+    background-image: URL(./IMG/blackBg.jpg);
     margin-top: -4px;
     position: relative;
     display: flex;
@@ -739,7 +739,7 @@ gap: 15px;
 .page5{
     height:130%;
     width: 100%;
-    background-image: url(/IMG/whitebg.png);
+    background-image: URL(./IMG/whitebg.png);
     padding: 2vw;
     position: relative;
 }
@@ -1107,7 +1107,7 @@ gap: 15px;
 .pricing{
     height: 180%;
     width: 100%;
-    background-image: url(IMG/2bg.jpg);
+    background-image: URL(./IMG/2bg.jpg);
     background-size: cover;
     padding: 2vw;
     position: relative;
@@ -1222,7 +1222,7 @@ gap: 15px;
 .need-a-trainer{
     height: 45vh;
     width: 100%;
-    background-image: url(/IMG/fitnesstrainer.jpg);
+    background-image: URL(./IMG/fitnesstrainer.jpg);
     background-size: cover;
     padding: 30px;
 }
